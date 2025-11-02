@@ -4,4 +4,4 @@
 
 ---
 
-This repo contains exercises and projects of the "C_Programming - A Modern Approach by King - second edition" textbook
+This repo contains exercises and projects from the "C_Programming - A Modern Approach by King - second edition" textbook
